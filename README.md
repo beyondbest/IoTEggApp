@@ -1,6 +1,8 @@
 # IoTEggApp
 
 
+<img src="http://131.227.92.232/iotegg/image/ioteggapp_scan.png" width="20%" height="20%">
+
 ![alt tag](http://131.227.92.232/iotegg/image/ioteggapp_scan.png)
 ![alt tag](http://131.227.92.232/iotegg/image/ioteggapp_main.png)
 ![alt tag](http://131.227.92.232/iotegg/image/ioteggapp_menu.png)
