@@ -9,7 +9,7 @@ IoTEgg Binary(IoTEggApp_v001.bin) for IoTEgg device
 <li> Version: 001, 03-04-2017 </li>
 <li> To update: Drag-n-drop the IoTEggApp_v001.bin into IoTEgg device </li>
 <hr>
-The IoT Egg is an integrated sensor suite which has been developed by Institute for Communication Systems (ICS) http://www.surrey.ac.uk/ics/, University of Surrey. At its core is an ARM Cortex M3 microprocessor (LPC1768). For more information of IoT Egg, please contact to Professor Klaus Moessner <k.moessner@surrey.ac.uk> or Dr. William Headley <w.headley@surrey.ac.uk>
+The IoT Egg is an integrated sensor suite which has been developed by Institute for Communication Systems (ICS) http://www.surrey.ac.uk/ics/, University of Surrey. At its core is an ARM Cortex M3 microprocessor (LPC1768). For more information of IoT Egg, please contact to Professor Klaus Moessner(k.moessner@surrey.ac.uk) or Dr. William Headley(w.headley@surrey.ac.uk)
 <hr>
 <p>Screenshots of IoTEgg application <p>
 <p>
